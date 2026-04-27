@@ -38,7 +38,7 @@ The application provides a simple and interactive interface for users to input t
 ## 📁 Project Structure
 
 ```
-Heart_Disease_Project/
+Heart_Attack_Prediction/
 │
 ├── app.py                          # Main Streamlit application
 ├── logistic_Regression_heart.pkl   # Trained ML model
@@ -49,44 +49,6 @@ Heart_Disease_Project/
 ```
 
 ---
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
-```
-
----
-
-### 2️⃣ Create virtual environment (recommended)
-
-```bash
-python -m venv venv
-source venv/bin/activate   # For Mac/Linux
-venv\Scripts\activate      # For Windows
-```
-
----
-
-### 3️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-### 4️⃣ Run the app
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## 📊 Input Features
 
 The model uses the following parameters:
